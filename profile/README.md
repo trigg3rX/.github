@@ -14,7 +14,7 @@
   
   [![Website](https://img.shields.io/badge/Website-triggerx.network-blue)](https://triggerx.network)
   [![Twitter Follow](https://img.shields.io/twitter/follow/TriggerX?style=social)](https://x.com/_TriggerX)
-  [![GitHub Stars](https://img.shields.io/github/stars/TriggerX?style=social)](https://github.com/TriggerX)
+  [![GitHub Stars](https://img.shields.io/github/stars/TriggerX?style=social)](https://github.com/trigg3rX)
 </div>
 
 ## 🎯 Mission
