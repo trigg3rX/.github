@@ -48,6 +48,12 @@ TriggerX’s flexible architecture simplifies the expansion to new L2 chains:
 ### 4. Decentralized Keeper Networks
 By leveraging decentralized keepers, TriggerX eliminates reliance on single providers, ensuring a resilient and tamper-proof automation infrastructure.
 
+## Contracts
+
+- **stakeRegistry (0xF1d505d1f6df11795c77A8A1b7476609E7b6361a)**: Manages the reward and staking for the operators.
+- **triggerXServiceManager (0xc0aA79c13bC1eEA0168f1A2975b7aA9FF64135ed)**: Manages keeper registration, deregistration, blacklisting, and reward distribution for completed tasks.
+- **triggerXTaskManager (0xCdA2cB34A31f502c1116Fa835d504836372Ee9e4)**: Handles task creation, records task hashes, verifies keeper task responses, and updates the blockchain based on validation outcomes.
+
 ## Why TriggerX?
 
 - **Comprehensive Automation Solution**: A one-stop platform for time-based, event-triggered, and condition-based automations.
