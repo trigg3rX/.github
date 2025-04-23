@@ -4,7 +4,6 @@
     </a>
   </center>
 
-  <h3 align="center">Effortless Blockchain Automation. Limitless Potential.</h3>
   <h3 align="center">Powered by <a href="https://www.eigenlayer.xyz/">@Eigenlayer</a>.</h3>
 
   <h2>Introduction</h2>
